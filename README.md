@@ -30,3 +30,5 @@ Make sure to set up your API keys in environment variables:
 ## License
 
 This project is licensed under the MIT License.
+
+code by ./nky001 🆒
